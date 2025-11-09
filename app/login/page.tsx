@@ -103,7 +103,7 @@ export default function LoginPage() {
           </form>
 
           {/* Demo Credentials */}
-          <div className="mt-6 p-4 bg-muted/50 rounded-lg border border-border">
+          {/* <div className="mt-6 p-4 bg-muted/50 rounded-lg border border-border">
             <p className="text-xs font-semibold text-muted-foreground mb-2">Credenciales Demo:</p>
             <p className="text-xs text-muted-foreground">
               <span className="font-medium">Paciente:</span> patient@demo.com / 12345678
@@ -111,7 +111,7 @@ export default function LoginPage() {
             <p className="text-xs text-muted-foreground">
               <span className="font-medium">Admin:</span> admin@demo.com / password123
             </p>
-          </div>
+          </div> */}
         </div>
 
         {/* Back Link */}
